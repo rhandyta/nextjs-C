@@ -31,6 +31,9 @@ export default function RootLayout({
                     <li>
                         <Link href="/calculator">Calculator</Link>
                     </li>
+                    <li>
+                        <Link href="/cari">Cari Orang</Link>
+                    </li>
                 </ul>
                 {children}
             </body>
