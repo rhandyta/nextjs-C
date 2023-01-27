@@ -27,7 +27,6 @@ export default function RootLayout({
                     </li>
                 </ul>
                 {children}
-                <div>Footer</div>
             </body>
         </html>
     );

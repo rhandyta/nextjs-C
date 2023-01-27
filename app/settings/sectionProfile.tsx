@@ -1,5 +1,6 @@
+import Link from "next/link";
 import React from "react";
 
 export default function SectionProfile() {
-    return <div>sectionProfile</div>;
+    return <Link>sectionProfile</Link>;
 }
