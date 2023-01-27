@@ -25,6 +25,9 @@ export default function RootLayout({
                     <li onClick={() => handleClickUrl("/settings")}>
                         Settings
                     </li>
+                    <li>
+                        <Link href="/errorhandling">Error Handling</Link>
+                    </li>
                 </ul>
                 {children}
             </body>
