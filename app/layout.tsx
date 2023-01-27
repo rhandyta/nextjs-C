@@ -28,6 +28,9 @@ export default function RootLayout({
                     <li>
                         <Link href="/errorhandling">Error Handling</Link>
                     </li>
+                    <li>
+                        <Link href="/calculator">Calculator</Link>
+                    </li>
                 </ul>
                 {children}
             </body>
